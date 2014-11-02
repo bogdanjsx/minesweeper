@@ -2,11 +2,12 @@
 
 ==
 
-An attempt at the famous minesweeper game, using the curses library
+An attempt at the famous minesweeper game, written in C, using the curses library
 
-Compiler version:   gcc 4.7
+Compiler version: gcc 4.7
 
 External dependencies: curses library, get it executing the following command:
+
 	`sudo apt-get install libncurses5-dev`
 
 Recommended terminal size: 155x45
