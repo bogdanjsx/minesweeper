@@ -25,9 +25,9 @@ Game features:
 
 - The two timers work this way:
 
-* Round time starts when "New Game" is selected and stops when this option is selected again, resetting. Does not stop during pause; 
+	* Round time starts when "New Game" is selected and stops when this option is selected again, resetting. Does not stop during pause; 
 
-* Game time starts when the first cell is hit and stops when the game is over, be it successful or not. Stops during pause
+	* Game time starts when the first cell is hit and stops when the game is over, be it successful or not. Stops during pause
 
 - When a game is over, you can either press Escape to return to the main menu, or N to start a new game.
 
